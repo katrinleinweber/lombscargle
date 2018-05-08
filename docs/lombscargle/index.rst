@@ -35,7 +35,7 @@ Literature References
 .. [3] Press W.H. and Rybicki, G.B, "Fast algorithm for spectral analysis
        of unevenly sampled data". ApJ 1:338, p. 277 (1989)
 .. [4] VanderPlas, J. "Gatspy: General Tools for Astronomical Time Series
-       in Python" (2015) http://dx.doi.org/10.5281/zenodo.14833
+       in Python" (2015) https://doi.org/10.5281/zenodo.14833
 .. [5] VanderPlas, J. & Ivezic, Z. "Periodograms for Multiband Astronomical
        Time Series". ApJ 812.1:18 (2015)
 
